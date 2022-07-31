@@ -20,7 +20,7 @@ const PricingOption = (props) => {
 
             </div>
             
-                <button className='bg-green-500 p-2 font-mono text-white rounded-2xl justify-center flex w-full gap-2 mt-5'>
+                <button className='bg-green-500 p-2 font-mono text-white rounded-2xl justify-center flex w-full gap-2 mt-5 hover:text-gray-400'>
                     Buy Now
 
                     <ArrowRightIcon className='w-5 h-5'></ArrowRightIcon>
