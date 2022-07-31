@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Link from '../Link/Link';
-import { MenuIcon, XIcon } from '@heroicons/react/solid'
+import { MenuIcon, XIcon } from '@heroicons/react/solid';
 
 const Navbar = () => {
     const[open,setOpen]=useState(false);
